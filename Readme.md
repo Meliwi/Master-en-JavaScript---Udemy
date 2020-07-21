@@ -1,13 +1,13 @@
-Progreso en mi curso de Udemy que consiste en: 
+# Progress in my Udemy course about :
 
-* Programación básica 
-* Javascript moderno 
+* Basic Programming
+* Javascript 
 * Jquery 
-* Maquetacion web (HTML5 - CSS3)
-* Angular desde cero 
+* HTML5 - CSS3
+* Angular 
 * NodeJs
 * Express/rest
-* Mean Stack (para desarrollar una app completa)
-* Desarrollo web full stack 
+* Mean Stack (To develop a complete app)
+* Full stack web development
 
 
